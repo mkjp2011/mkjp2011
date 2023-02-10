@@ -49,9 +49,9 @@ I am a Development Manager who lives in Pittsburgh, PA
 <p><img src="https://github-readme-stats.vercel.app/api?username=mkjp2011&show_icons=true&theme=dracula" alt="mkjp2011" /></p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg">
-  <img alt="github-snake" src="github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mkjp2011/mkjp2011/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="[github-contribution-grid-snake.svg](https://github.com/mkjp2011/mkjp2011/blob/output/github-contribution-grid-snake.svg)">
+  <img alt="github-snake" src="[github-snake.svg](https://github.com/mkjp2011/mkjp2011/blob/output/github-contribution-grid-snake.svg)">
 </picture>
 
 <!--START_SECTION:waka-->
