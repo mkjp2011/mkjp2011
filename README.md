@@ -50,8 +50,4 @@ I am a Development Manager who lives in Pittsburgh, PA
 <p><img src="https://github-readme-stats.vercel.app/api?username=mkjp2011&show_icons=true&theme=dracula" alt="mkjp2011" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C503%20hrs%2016%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-184-blue)
-
 <!--END_SECTION:waka-->
