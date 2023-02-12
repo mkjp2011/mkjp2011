@@ -51,4 +51,23 @@ I am a Development Manager who lives in Pittsburgh, PA
 ![snake gif](https://github.com/mkjp2011/mkjp2011/blob/542c402303ab0ccc75e28f4214b6a2f03a7880a9/github-contribution-grid-snake-dark.svg)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%209%20mins-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/New_York
+
+```
+
+**I Mostly Code in []** 
+
+```text
+
+
+```
+
+
+
+ Last Updated on 12/02/2023 22:04:19 UTC
 <!--END_SECTION:waka-->
