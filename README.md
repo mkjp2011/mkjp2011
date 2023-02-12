@@ -60,14 +60,8 @@ I am a Development Manager who lives in Pittsburgh, PA
 
 ```
 
-**I Mostly Code in []** 
-
-```text
-
-
-```
 
 
 
- Last Updated on 12/02/2023 22:04:19 UTC
+ Last Updated on 12/02/2023 22:12:32 UTC
 <!--END_SECTION:waka-->
