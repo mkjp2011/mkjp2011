@@ -51,17 +51,74 @@ I am a Development Manager who lives in Pittsburgh, PA
 ![snake gif](https://github.com/mkjp2011/mkjp2011/blob/542c402303ab0ccc75e28f4214b6a2f03a7880a9/github-contribution-grid-snake-dark.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2027%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-163-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 24 Contributions in the Year 2023
+ > 
+> 📦 15 Bytes Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 6 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning        0 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime        5 commits       █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+🌃 Evening       19 commits       ███████████████████░░░░░░   79.17 % 
+🌙 Night          0 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday           3 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Tuesday          0 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday        0 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday         6 commits       ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Friday           9 commits       █████████░░░░░░░░░░░░░░░░   37.50 % 
+Saturday         5 commits       █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+Sunday           1 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+
+```
+
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: America/New_York
 
+💬 Programming Languages: 
+TypeScript               3 hrs 9 mins        ██████████████████░░░░░░░   72.63 % 
+Java                     39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+HTML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+
+🔥 Editors: 
+VS Code                  3 hrs 23 mins       ███████████████████░░░░░░   77.95 % 
+IntelliJ                 57 mins             █████░░░░░░░░░░░░░░░░░░░░   22.05 % 
+
+💻 Operating System: 
+Windows                  4 hrs 20 mins       █████████████████████████   100.00 % 
+
+```
+
+```text
+
+
 ```
 
 
 
-
- Last Updated on 12/02/2023 22:13:31 UTC
+ Last Updated on 17/02/2023 01:10:34 UTC
 <!--END_SECTION:waka-->
