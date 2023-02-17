@@ -61,7 +61,7 @@ I am a Development Manager who lives in Pittsburgh, PA
 
 > 🏆 24 Contributions in the Year 2023
  > 
-> 📦 173 Bytes Used in GitHub's Storage 
+> 📦 155 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -120,5 +120,5 @@ Windows                  6 hrs 36 mins       ███████████�
 
 
 
- Last Updated on 17/02/2023 06:11:00 UTC
+ Last Updated on 17/02/2023 06:11:30 UTC
 <!--END_SECTION:waka-->
