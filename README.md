@@ -51,7 +51,7 @@ I am a Development Manager who lives in Pittsburgh, PA
 ![snake gif](https://github.com/mkjp2011/mkjp2011/blob/542c402303ab0ccc75e28f4214b6a2f03a7880a9/github-contribution-grid-snake-dark.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-163-blue)
 
@@ -61,7 +61,7 @@ I am a Development Manager who lives in Pittsburgh, PA
 
 > 🏆 24 Contributions in the Year 2023
  > 
-> 📦 464 Bytes Used in GitHub's Storage 
+> 📦 490 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -120,5 +120,5 @@ Windows                  6 hrs 36 mins       ███████████�
 
 
 
- Last Updated on 17/02/2023 17:07:15 UTC
+ Last Updated on 18/02/2023 01:05:57 UTC
 <!--END_SECTION:waka-->
