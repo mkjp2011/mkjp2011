@@ -51,7 +51,7 @@ I am a Development Manager who lives in Pittsburgh, PA
 ![snake gif](https://github.com/mkjp2011/mkjp2011/blob/542c402303ab0ccc75e28f4214b6a2f03a7880a9/github-contribution-grid-snake-dark.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-162-blue)
 
@@ -120,5 +120,5 @@ Windows                  7 hrs 14 mins       ███████████�
 
 
 
- Last Updated on 21/02/2023 19:38:17 UTC
+ Last Updated on 21/02/2023 19:38:55 UTC
 <!--END_SECTION:waka-->
