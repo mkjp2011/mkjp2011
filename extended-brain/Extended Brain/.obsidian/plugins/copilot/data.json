@@ -1,0 +1,20 @@
+{
+  "openAIApiKey": "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",
+  "huggingfaceApiKey": "",
+  "cohereApiKey": "",
+  "anthropicApiKey": "",
+  "azureOpenAIApiKey": "",
+  "azureOpenAIApiInstanceName": "",
+  "azureOpenAIApiDeploymentName": "",
+  "azureOpenAIApiVersion": "",
+  "defaultModel": "gpt-4",
+  "defaultModelDisplayName": "GPT-4",
+  "temperature": 0.7,
+  "maxTokens": 1000,
+  "contextTurns": 3,
+  "useNotesAsContext": false,
+  "userSystemPrompt": "",
+  "stream": true,
+  "embeddingProvider": "openai",
+  "debug": false
+}
